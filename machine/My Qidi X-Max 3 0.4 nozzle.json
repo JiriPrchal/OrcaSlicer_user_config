@@ -1,0 +1,22 @@
+{
+    "change_filament_gcode": "M600\n",
+    "fan_speedup_time": "1",
+    "from": "User",
+    "inherits": "Qidi X-Max 3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END\n",
+    "machine_start_gcode": ";M141 S[chamber_temperature]\n;M190 S[first_layer_bed_temperature]\nPRINT_START BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] EXTRUDER=[first_layer_temperature]\n;G29; mesh bed leveling ,comment this code to close it\n;G0 X33 Y0 Z50 F36000\n;M109 S[first_layer_temperature]\n;M106 P3 S255\nM83\nG4 P3000\nG1 E3 F1800\n",
+    "manual_filament_change": "1",
+    "name": "My Qidi X-Max 3 0.4 nozzle",
+    "print_host": "qidimax",
+    "printable_height": "320",
+    "printer_settings_id": "My Qidi X-Max 3 0.4 nozzle",
+    "printhost_apikey": "66b628fff6394a0087a7e3405505c1ae",
+    "retract_length_toolchange": [
+        "70"
+    ],
+    "retract_restart_extra_toolchange": [
+        "100"
+    ],
+    "version": "2.0.2.0"
+}

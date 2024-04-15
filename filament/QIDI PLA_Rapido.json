@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#3D3846"
+    ],
+    "filament_cost": [
+        "750"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "QIDI PLA_Rapido"
+    ],
+    "from": "User",
+    "inherits": "QIDI PLA Rapido",
+    "is_custom_defined": "0",
+    "name": "QIDI PLA_Rapido",
+    "version": "2.0.2.0"
+}

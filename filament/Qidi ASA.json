@@ -1,0 +1,34 @@
+{
+    "chamber_temperature": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#9A9996"
+    ],
+    "filament_cost": [
+        "988"
+    ],
+    "filament_settings_id": [
+        "Qidi ASA"
+    ],
+    "filament_shrink": [
+        "99.4%"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Qidi Generic ASA",
+    "is_custom_defined": "0",
+    "name": "Qidi ASA",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,55 @@
+{
+    "chamber_temperature": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#F6F5F4"
+    ],
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "370"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "9"
+    ],
+    "filament_settings_id": [
+        "Gembird ABS"
+    ],
+    "filament_shrink": [
+        "99.5%"
+    ],
+    "filament_vendor": [
+        "Gembird"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Qidi Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Gembird ABS",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "pressure_advance": [
+        "0.01"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "2.0.2.0"
+}

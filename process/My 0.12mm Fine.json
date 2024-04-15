@@ -1,0 +1,21 @@
+{
+    "elefant_foot_compensation": "0.1",
+    "extra_perimeters_on_overhangs": "1",
+    "filename_format": "{input_filename_base}_{filament_type[initial_tool]}.gcode",
+    "filter_out_gap_fill": "1",
+    "from": "User",
+    "hole_to_polyhole": "1",
+    "inherits": "0.12mm Fine @Qidi XMax3",
+    "is_custom_defined": "0",
+    "name": "My 0.12mm Fine",
+    "only_one_wall_first_layer": "1",
+    "overhang_reverse": "1",
+    "precise_outer_wall": "1",
+    "print_settings_id": "My 0.12mm Fine",
+    "skirt_height": "2",
+    "skirt_speed": "0",
+    "slowdown_for_curled_perimeters": "1",
+    "top_shell_layers": "5",
+    "top_shell_thickness": "0",
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,43 @@
+{
+    "chamber_temperature": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#F8E45C"
+    ],
+    "filament_cost": [
+        "450"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Spectrum smart_ABS"
+    ],
+    "filament_shrink": [
+        "99.5%"
+    ],
+    "filament_vendor": [
+        "Spectrum"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Qidi Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Spectrum smart_ABS",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "pressure_advance": [
+        "0.01"
+    ],
+    "version": "2.0.2.0"
+}

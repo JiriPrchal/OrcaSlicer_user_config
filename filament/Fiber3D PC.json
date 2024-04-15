@@ -1,0 +1,37 @@
+{
+    "chamber_temperature": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#C0BFBC"
+    ],
+    "filament_cost": [
+        "988"
+    ],
+    "filament_settings_id": [
+        "Fiber3D PC"
+    ],
+    "filament_shrink": [
+        "99.5%"
+    ],
+    "filament_vendor": [
+        "Fiber3D"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "120"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "120"
+    ],
+    "inherits": "Qidi Generic PC",
+    "is_custom_defined": "0",
+    "name": "Fiber3D PC",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "version": "2.0.2.0"
+}

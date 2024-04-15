@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#F8E45C"
+    ],
+    "filament_cost": [
+        "500"
+    ],
+    "filament_settings_id": [
+        "Abaflex PETG"
+    ],
+    "filament_shrink": [
+        "99.57%"
+    ],
+    "filament_vendor": [
+        "Abaflex"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Qidi Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Abaflex PETG",
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "version": "2.0.2.0"
+}

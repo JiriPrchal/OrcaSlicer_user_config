@@ -1,0 +1,37 @@
+{
+    "default_filament_colour": [
+        "#1C71D8"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "469"
+    ],
+    "filament_settings_id": [
+        "Abaflex PLA"
+    ],
+    "filament_vendor": [
+        "Abaflex"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Qidi Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Abaflex PLA",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "2.0.2.0"
+}

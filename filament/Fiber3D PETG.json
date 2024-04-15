@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#C061CB"
+    ],
+    "filament_cost": [
+        "440"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "Fiber3D PETG"
+    ],
+    "filament_shrink": [
+        "99.3675%"
+    ],
+    "filament_vendor": [
+        "Fiber3D"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "85"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "Qidi Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Fiber3D PETG",
+    "version": "2.0.2.0"
+}
